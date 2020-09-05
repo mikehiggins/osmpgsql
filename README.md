@@ -1,9 +1,9 @@
-##osmpgsql
+## osmpgsql
 
 A simple shell script to get a PostgreSQL DB instance up and running quickly with OSM data
 imported and ready to query from the host machine.
 
-##Method
+## Method
 Running the bash script `osmpgsql.sh` sequentially calls other scripts in the `/scripts` directory to do the following:
 
 
